@@ -196,9 +196,9 @@ function StarField({ count = 180 }) {
 const NAV_ITEMS = [
   { id: "solarsystem", label: "Solar System",    icon: "🪐" },
   { id: "timeline",    label: "Timeline of Life", icon: "⏳" },
-  { id: "habzone",     label: "Habitability Lab", icon: "🌍" },
-  { id: "exo",         label: "Exoplanet Map",    icon: "🔭" },
-  { id: "biosig",      label: "Biosignatures",    icon: "🧬" },
+  //{ id: "habzone",     label: "Habitability Lab", icon: "🌍" },
+  //{ id: "exo",         label: "Exoplanet Map",    icon: "🔭" },
+  //{ id: "biosig",      label: "Biosignatures",    icon: "🧬" },
   { id: "drake",       label: "Drake Equation",   icon: "📡" },
 ];
 
